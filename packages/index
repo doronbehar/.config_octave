@@ -1,0 +1,141 @@
+# Created by Octave 4.4.0, Wed Aug 08 07:01:11 2018 IDT <doron@NUC>
+# name: local_packages
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: name
+# type: sq_string
+# elements: 1
+# length: 8
+symbolic
+
+
+# name: version
+# type: sq_string
+# elements: 1
+# length: 5
+2.7.0
+
+
+# name: date
+# type: sq_string
+# elements: 1
+# length: 10
+2018-07-12
+
+
+# name: author
+# type: sq_string
+# elements: 1
+# length: 34
+Colin B. Macdonald <cbm@m.fsf.org>
+
+
+# name: maintainer
+# type: sq_string
+# elements: 1
+# length: 34
+Colin B. Macdonald <cbm@m.fsf.org>
+
+
+# name: title
+# type: sq_string
+# elements: 1
+# length: 35
+Octave Symbolic Package using SymPy
+
+
+# name: description
+# type: sq_string
+# elements: 1
+# length: 432
+The Octave-Forge Symbolic package adds symbolic calculation  features to GNU Octave.  These include common Computer Algebra System tools  such as algebraic operations, calculus, equation solving, Fourier and Laplace  transforms, variable precision arithmetic and other features.  Internally,  the package uses [SymPy](www.sympy.org), but no knowledge of Python is  required.  Compatibility with other symbolic toolboxes is intended.
+
+
+# name: categories
+# type: sq_string
+# elements: 1
+# length: 8
+symbolic
+
+
+# name: url
+# type: sq_string
+# elements: 1
+# length: 33
+http://github.com/cbm755/octsympy
+
+
+# name: depends
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: package
+# type: sq_string
+# elements: 1
+# length: 6
+octave
+
+
+# name: operator
+# type: sq_string
+# elements: 1
+# length: 2
+>=
+
+
+# name: version
+# type: sq_string
+# elements: 1
+# length: 3
+4.0
+
+
+
+
+
+
+
+# name: systemrequirements
+# type: sq_string
+# elements: 1
+# length: 22
+python, sympy (>= 1.0)
+
+
+# name: license
+# type: sq_string
+# elements: 1
+# length: 8
+GPL-3.0+
+
+
+# name: dir
+# type: sq_string
+# elements: 1
+# length: 69
+/var/code/doron/dotfiles/.config/octave/packages/build/symbolic-2.7.0
+
+
+# name: archprefix
+# type: sq_string
+# elements: 1
+# length: 69
+/var/code/doron/dotfiles/.config/octave/packages/build/symbolic-2.7.0
+
+
+
+
+
+
+

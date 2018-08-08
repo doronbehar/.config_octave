@@ -1,3 +1,6 @@
 [submodule "matlab2tikz"]
-	path = matlab2tikz
+	path = packages/bundle/matlab2tikz
 	url = https://github.com/matlab2tikz/matlab2tikz
+[submodule "bundle/octave-symbolic"]
+	path = packages/bundle/symbolic
+	url = https://git.code.sf.net/p/octave/symbolic
