@@ -6,4 +6,4 @@
 	url = https://git.code.sf.net/p/octave/symbolic
 [submodule "packages/bundle/latexTable"]
 	path = packages/bundle/latexTable
-	url = https://github.com/eliduenisch/latexTable
+	url = https://github.com/doronbehar/latexTable
